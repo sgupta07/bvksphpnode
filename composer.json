@@ -1,0 +1,8 @@
+{
+    "name": "foo-api/foo-php-rest-client",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+        "tcdent/php-restclient": "dev-master"
+    }
+}
